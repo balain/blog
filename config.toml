@@ -1,6 +1,6 @@
-baseURL = "https://www.balainsbooks.com/blog/"
+baseURL = "https://blog.balinsbooks.com/"
 languageCode = "en-us"
-title = "Balainsbooks blog"
+title = "Balinsbooks blog"
 
 #theme = "ananke"
 theme = "tale"
