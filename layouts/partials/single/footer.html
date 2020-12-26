@@ -1,0 +1,11 @@
+<!-- 
+This is a placeholder partial for the post footer. Create a file called
+layouts/partials/single/footer.html in your own site to overwrite this
+placeholder.
+-->
+		{{ range .Site.Params.css -}}
+			<link rel="stylesheet" href="{{ . | relURL }}">
+		{{ end -}}
+    {{ range .Site.Params.js -}}
+      <script src="{{ . | relURL }}"></script>
+    {{ end -}}
