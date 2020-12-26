@@ -1,0 +1,27 @@
+<ul class="header-ul">
+  {{ $currentPage := . }}
+  {{ with .Param "github" }}
+  <li><a href="{{ . }}" target="_blank" title="Github link" rel="noopener" ><i class="fab fa-github-square fa-2x"></i></a></li>
+  {{ end }}
+  {{ with .Param "linkedin" }}
+  <li><a href="{{ . }}" target="_blank" title="LinkedIn link" rel="noopener" ><i class="fab fa-linkedin fa-2x"></i></a></li>
+  </a></li>
+  {{ end }}
+  {{ with .Param "twitter" }}
+  <li><a href="{{ . }}" target="_blank" title="Twitter link" rel="noopener" ><i class="fab fa-twitter-square fa-2x"></i></a></li>
+  {{ end }}
+  {{ with .Param "keybase" }}
+  <li><a href="{{ . }}" target="_blank" title="Keybase link" rel="noopener" ><i class="fab fa-keybase fa-2x"></i></a></li>
+  {{ end }}
+  {{ range .Site.Menus.main }}
+  <li>
+      <span>
+        <a href="{{ .URL }}">
+        {{ .Pre }}
+        {{- .Name -}}
+        {{ .Post }}
+      </a>
+      </span>
+    </li>
+  {{ end }}
+</ul>

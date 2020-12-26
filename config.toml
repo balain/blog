@@ -1,0 +1,27 @@
+baseURL = "https://www.balainsbooks.com/blog/"
+languageCode = "en-us"
+title = "Balainsbooks blog"
+
+#theme = "ananke"
+theme = "tale"
+
+# sectionPagesMenu = "main"
+
+[params]
+  github="https://www.github.com/balain/"
+  linkedin="https://www.linkedin.com/in/johndavidlewis/"
+  twitter="https://www.twitter.com/balinjdl/"
+  keybase="https://keybase.io/balinjdl"
+  
+  js=["/js/fa-all.js"]
+
+  css=[ 
+    "/css/fa-all.css",
+    "/css/jdl.css" 
+  ]
+
+[author]
+	name = "John D. Lewis"
+
+[[Menus.main]]
+

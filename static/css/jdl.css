@@ -1,0 +1,13 @@
+.header-icon {
+  margin: 0px;
+  padding: 0px;
+}
+
+.nav li {
+  padding: 0 !important;
+}
+
+header-ul {
+  padding: 0 1rem 0 0;
+  margin: 0;
+}
