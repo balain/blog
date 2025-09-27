@@ -4,6 +4,7 @@ title = "John D. Lewis - blog"
 
 #theme = "ananke"
 theme = "tale"
+#theme = "hugo-theme-dream"
 
 # sectionPagesMenu = "main"
 
