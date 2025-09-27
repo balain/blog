@@ -1,6 +1,6 @@
-baseURL = "https://blog.balinsbooks.com/"
+baseURL = "https://www.johndlewis.com/blog/"
 languageCode = "en-us"
-title = "Balinsbooks blog"
+title = "John D. Lewis - blog"
 
 #theme = "ananke"
 theme = "tale"
@@ -12,16 +12,14 @@ theme = "tale"
   linkedin="https://www.linkedin.com/in/johndavidlewis/"
   twitter="https://www.twitter.com/balinjdl/"
   keybase="https://keybase.io/balinjdl"
-  
+  author="John D. Lewis"
+
   js=["/js/fa-all.js"]
 
   css=[ 
     "/css/fa-all.css",
     "/css/jdl.css" 
   ]
-
-[author]
-	name = "John D. Lewis"
 
 [[Menus.main]]
 
