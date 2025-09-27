@@ -4,3 +4,6 @@
 [submodule "themes/tale"]
 	path = themes/tale
 	url = https://github.com/EmielH/tale-hugo.git
+[submodule "hugo-theme-dream"]
+	path = hugo-theme-dream
+	url = https://github.com/g1eny0ung/hugo-theme-dream
