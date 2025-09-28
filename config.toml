@@ -4,7 +4,7 @@ title = "John D. Lewis - blog"
 
 #theme = "ananke"
 theme = "tale"
-#theme = "hugo-theme-dream"
+#theme = "dream"
 
 # sectionPagesMenu = "main"
 
@@ -14,6 +14,7 @@ theme = "tale"
   twitter="https://www.twitter.com/balinjdl/"
   keybase="https://keybase.io/balinjdl"
   author="John D. Lewis"
+
 
   js=["/js/fa-all.js"]
 
