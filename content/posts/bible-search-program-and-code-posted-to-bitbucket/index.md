@@ -1,6 +1,7 @@
 ---
 title: "Bible Search program and code posted to Bitbucket"
 date: "2016-06-07"
+cover: /blog/posts/bible-search-program-and-code-posted-to-bitbucket/images/BibleSearchProc-screenshot-300x247.png
 categories: 
   - "christianity"
   - "programming"
