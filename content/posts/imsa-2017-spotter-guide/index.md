@@ -5,6 +5,7 @@ categories:
   - "auto-racing"
 ---
 
-Download the 2017 IMSA Spotter Guide at [http://www.spotterguides.com/portfolio/17\_imsa/](http://www.spotterguides.com/portfolio/17_imsa/)
+![snapshot](/blog/images/imsa-snapshot.png)
+Download the 2017 IMSA Spotter Guide at [www.spotterguides.com](http://www.spotterguides.com/portfolio/17_imsa/)
 
 Very handy resource!
