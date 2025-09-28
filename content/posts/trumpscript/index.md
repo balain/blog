@@ -7,6 +7,7 @@ categories:
   - "politics"
   - "programming"
 ---
+
 https://github.com/samshadwell/TrumpScript TrumpScript icon (via GitHub)
 
 Regardless of what you think about The Donald, if you enjoy computers, you'll love [TrumpScript](https://github.com/samshadwell/TrumpScript) -- "Making Python great again!" Created by Sam Shadwell, a student Rice University, according to [his GitHub profile page](https://github.com/samshadwell).
