@@ -3,8 +3,8 @@ languageCode = "en-us"
 title = "John D. Lewis - blog"
 
 #theme = "ananke"
-theme = "tale"
-#theme = "dream"
+#theme = "tale"
+theme = "dream"
 
 # sectionPagesMenu = "main"
 

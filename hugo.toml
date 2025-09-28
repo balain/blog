@@ -20,8 +20,8 @@ darkTheme = "forest"
 # backgroundImageDark = ""
 
 author = "Dream"
-# description = "John's blog"
-# avatar = "img/avatar.png"
+description = "John's blog"
+avatar = "img/avatar.png"
 headerTitle = "John D. Lewis - blog"
 # motto = ""
 
